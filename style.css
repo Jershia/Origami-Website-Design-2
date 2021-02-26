@@ -1,0 +1,64 @@
+*{ 
+    background-color : peachpuff
+ }
+ h1{
+    border : 5px solid forestgreen
+ }
+ h1{
+     color :indigo
+ }
+
+ h1{
+    font-family: Copperplate, Papyrus, fantasy
+ }
+ h1{
+     font-size :80px
+ }
+ ul{
+     font-style:italic
+ }
+ h2{
+     color:forestgreen
+ }
+ h2{
+     font-size:150px
+ }
+ h3{
+     color:indigo
+ }
+ h3{
+    font-size: 50px
+ }
+ ul{
+     font-size:20px
+ }
+ ul{
+     font-weight:bold
+ }
+ ul{
+     color: mediumvioletred
+ }
+
+ .grid{
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+    justify-content :space-around
+    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 560px;
+    padding: 50px;
+    background-color :cadetblue
+}
